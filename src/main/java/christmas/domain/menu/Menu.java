@@ -15,7 +15,7 @@ public enum Menu {
     CHOCOLATE_CAKE(MenuType.DESSERT, "초코케이크", 15_000),
     ICE_CREAM(MenuType.DESSERT, "아이스크림", 5_000),
     ZERO_COKE(MenuType.DRINK, "제로콜라", 3_000),
-    RED_WINE(MenuType.DRINK, "레드와인", 6_0000),
+    RED_WINE(MenuType.DRINK, "레드와인", 60_000),
     CHAMPAGNE(MenuType.DRINK, "샴페인", 25_000);
 
     private final MenuType menuType;
